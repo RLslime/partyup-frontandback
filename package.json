@@ -1,6 +1,6 @@
 {
-  "homepage": "https://rlslime.github.io/partyupfrontend/",
-  "name": "wut",
+  "homepage": "https://rlslime.github.io/partyupfrontandback/",
+  "name": "partyup",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
